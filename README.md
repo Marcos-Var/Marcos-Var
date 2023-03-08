@@ -4,7 +4,7 @@
 
 <hr/>
 
-- 📚 Web developer and artiical intelligence
+- 📚 Web developer and artifical intelligence
 - 💪 Soon I will know the world of cybersecurity
 
 <hr/>
