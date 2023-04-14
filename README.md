@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone, I'm Marcos Vargas Azero (MVA)👋</h1>
-<h3 align="center">💻 Systems engineer and martial artist 🥋</h3>
+<h3 align="center">💻 Systems Engineer and Martial Artist 🥋</h3>
 
 <hr/>
 
